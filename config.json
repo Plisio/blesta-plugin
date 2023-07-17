@@ -1,0 +1,16 @@
+{
+  "version": "1.0.0",
+  "name": "Plisio.name",
+  "description": "Plisio.description",
+  "authors": [
+    {
+      "name": "Plisio",
+      "url": "https://plisio.net"
+    }
+  ],
+  "currencies": ["EUR", "GBP", "USD", "BTC", "PLN", "CZK", "SEK", "NOK",
+    "DKK", "CHF", "ZAR", "AUD", "JPY", "BRL", "CAD",  "CNY", "HKD", "HUF",
+    "INR", "RUB", "ILS", "MYR", "MXN", "SGD", "RON", "VEF", "IDR", "PHP",
+    "ARS", "THB", "NGN", "COP", "PKR", "AED", "UAH", "BGN"],
+  "signup_url": "https://plisio.net/account/signup"
+}
