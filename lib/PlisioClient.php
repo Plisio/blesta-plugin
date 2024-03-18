@@ -4,7 +4,7 @@ namespace Plisio;
 class PlisioClient
 {
     protected $secretKey = '';
-    public $apiEndPoint = 'https://plisio.net/api/v1';
+    public $apiEndPoint = 'https://api.plisio.net/api/v1';
 
     public function __construct($secretKey)
     {
